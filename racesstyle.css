@@ -32,12 +32,18 @@ footer {
 
 main {
   background-color: cornsilk;
+  line-height: 2;
 }
 
 main h1,
 h2,
-h3 {
+h3,
+h4 {
   color: hsl(10, 79%, 31%);
+}
+
+p {
+  font-family: "Goudy Bookletter 1911", serif;
 }
 
 #opening {
@@ -45,6 +51,34 @@ h3 {
   margin: 0 10%;
 }
 
+#opening h3 {
+  color: black;
+}
+
 #BothSubraces {
-  size: 40%;
+  display: inline-flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+#ElfSubrace,
+#DwarfSubrace {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 30%;
+  padding-bottom: 20px;
+}
+
+#ElfSubrace {
+  margin-left: 10%;
+}
+
+#DwarfSubrace {
+  margin-right: 10%;
+}
+
+#SnowElves,
+#Avariel,
+#Arctic {
+  padding-top: 5%;
 }
