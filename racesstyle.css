@@ -31,8 +31,11 @@ footer {
 /**opening**/
 
 main {
-  background-color: cornsilk;
   line-height: 2;
+  background-image: url(cPPYV7h.png);
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 main h1,
@@ -66,7 +69,7 @@ p {
 #ElfSubrace,
 #DwarfSubrace {
   width: 35%;
-  padding-bottom: 20px;
+  padding-bottom: 5%;
 }
 
 #ElfSubrace {
@@ -80,5 +83,5 @@ p {
 #SnowElves,
 #Avariel,
 #Arctic {
-  padding-top: 5%;
+  padding-top: 3.5%;
 }
