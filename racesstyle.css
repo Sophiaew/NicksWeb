@@ -32,10 +32,13 @@ footer {
 
 main {
   line-height: 2;
+}
+
+body {
   background-image: url(cPPYV7h.png);
+  background-repeat: no-repeat;
   background-color: black;
   background-size: cover;
-  background-repeat: no-repeat;
 }
 
 main h1,
