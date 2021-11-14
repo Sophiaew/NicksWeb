@@ -35,10 +35,11 @@ main {
 }
 
 body {
-  background-image: url(background.png);
+  background-image: url(background2.png);
   background-repeat: no-repeat;
   background-color: black;
   background-size: cover;
+  height: vh;
 }
 
 main h1,
@@ -87,4 +88,8 @@ p {
 #Avariel,
 #Arctic {
   padding-top: 3.5%;
+}
+
+#SnowElves {
+  padding-bottom: 200px;
 }
