@@ -23,9 +23,9 @@ header a {
 }
 
 footer {
-  background-color: black;
   color: white;
-  padding: 1% 0 1% 10%;
+  padding: 10% 0 3% 10%;
+  height: 50px;
 }
 
 /**opening**/
@@ -35,7 +35,7 @@ main {
 }
 
 body {
-  background-image: url(cPPYV7h.png);
+  background-image: url(background.png);
   background-repeat: no-repeat;
   background-color: black;
   background-size: cover;
