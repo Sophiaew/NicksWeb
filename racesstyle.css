@@ -1,0 +1,50 @@
+/**Repeating**/
+
+* {
+  margin: 0 auto;
+  font-family: "Courgette", cursive;
+}
+header {
+  background-image: url(My\ Post.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10%;
+  margin: 0 auto;
+  color: white;
+}
+
+li {
+  display: inline;
+  padding: 1%;
+}
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 1% 0 1% 10%;
+}
+
+/**opening**/
+
+main {
+  background-color: cornsilk;
+}
+
+main h1,
+h2,
+h3 {
+  color: hsl(10, 79%, 31%);
+}
+
+#opening {
+  padding: 3%;
+  margin: 0 10%;
+}
+
+#BothSubraces {
+  size: 40%;
+}
