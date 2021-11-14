@@ -55,6 +55,7 @@ p {
   color: black;
 }
 
+/**Races**/
 #BothSubraces {
   display: inline-flex;
   justify-content: space-around;
@@ -63,9 +64,7 @@ p {
 
 #ElfSubrace,
 #DwarfSubrace {
-  background-size: 100%;
-  background-repeat: no-repeat;
-  width: 30%;
+  width: 35%;
   padding-bottom: 20px;
 }
 
