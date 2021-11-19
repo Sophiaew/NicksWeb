@@ -1,0 +1,46 @@
+footer {
+  background-color: black;
+}
+
+#secondpart {
+  display: inline-flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.raceimage,
+.subclassesimage,
+.backgroundsimage {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 35%;
+  height: 250px;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.raceimage {
+  background-image: url(placeholder.jpg);
+}
+
+.subclassesimage {
+  background-image: url(placeholder.jpg);
+}
+
+#secondpart a {
+  text-decoration: none;
+  color: black;
+}
+
+#secondpart h2 {
+  text-align: center;
+  padding-top: 25%;
+  font-size: 2.5em;
+}
+
+main h1,
+h2,
+h3,
+h4 {
+  color: black;
+  font-family: "Courgette", cursive;
+}

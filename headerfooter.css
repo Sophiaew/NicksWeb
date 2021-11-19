@@ -1,0 +1,58 @@
+* {
+  margin: 0 auto;
+  font-family: "Goudy Bookletter 1911", serif;
+}
+header {
+  background-image: url(My\ Post.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10%;
+  margin: 0 auto;
+  color: white;
+}
+
+li {
+  display: inline;
+  justify-content: space-between;
+  padding: 2% 1% 0 1%;
+}
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 1% 0 1% 10%;
+}
+
+footer h3 {
+  color: white;
+}
+
+/**opening**/
+
+main {
+  line-height: 2;
+}
+
+body {
+  background-image: url(background2.png);
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: cover;
+}
+
+p {
+  text-align: justify;
+}
+
+#opening {
+  padding: 3%;
+  margin: 0 10%;
+}
+
+#opening h3 {
+  color: black;
+}

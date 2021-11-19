@@ -2,7 +2,7 @@
 
 * {
   margin: 0 auto;
-  font-family: "Courgette", cursive;
+  font-family: "Goudy Bookletter 1911", serif;
 }
 header {
   background-image: url(My\ Post.png);
@@ -50,10 +50,10 @@ h2,
 h3,
 h4 {
   color: hsl(10, 79%, 31%);
+  font-family: "Courgette", cursive;
 }
 
 p {
-  font-family: "Goudy Bookletter 1911", serif;
   text-align: justify;
 }
 
@@ -67,19 +67,19 @@ p {
 }
 
 /**Races**/
-#BothSubraces {
+#TwoColumns {
   display: inline-flex;
   justify-content: space-around;
   width: 100%;
 }
 
-#ElfSubrace,
+#FirstColumn,
 #DwarfSubrace {
   width: 35%;
   padding-bottom: 5%;
 }
 
-#ElfSubrace {
+#FirstColumn {
   margin-left: 10%;
 }
 
@@ -87,12 +87,24 @@ p {
   margin-right: 10%;
 }
 
-#SnowElves,
 #Avariel,
 #Arctic {
   padding-top: 3.5%;
+  padding-bottom: 20vh;
 }
 
-#SnowElves {
-  padding-bottom: 20vh;
+.green {
+  background-color: hsl(68, 40%, 82%);
+}
+
+table {
+  margin-left: 0;
+  width: 100%;
+  font-family: "Goudy Bookletter 1911", serif;
+}
+thead {
+  font-weight: bold;
+}
+td {
+  padding-left: 5px;
 }
