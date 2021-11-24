@@ -16,8 +16,15 @@ header {
 header li {
   display: inline;
   justify-content: space-between;
-  padding: 2% 1% 0 1%;
+  padding: 1%;
+  margin-left: 0;
 }
+
+header ul {
+  list-style: none;
+  padding: 0;
+}
+
 header a {
   text-decoration: none;
   color: white;
@@ -108,4 +115,8 @@ thead {
 }
 td {
   padding-left: 5px;
+}
+
+.openingp {
+  font-weight: normal;
 }
