@@ -13,7 +13,7 @@ header {
   color: white;
 }
 
-li {
+header li {
   display: inline;
   justify-content: space-between;
   padding: 2% 1% 0 1%;
