@@ -1,0 +1,44 @@
+/**opening**/
+
+a {
+  text-decoration: none;
+  color: black;
+}
+main {
+  line-height: 2;
+}
+
+body {
+  background-image: url(background2.png);
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: cover;
+}
+
+main h1,
+h2,
+h3,
+h4 {
+  color: hsl(10, 79%, 31%);
+  font-family: "Courgette", cursive;
+}
+
+#subclasstable {
+  padding-bottom: 20vh;
+  margin: 0 10%;
+}
+
+.green {
+  background-color: hsl(68, 40%, 82%);
+}
+
+table {
+  width: 100%;
+  font-family: "Goudy Bookletter 1911", serif;
+}
+thead {
+  font-weight: bold;
+}
+td {
+  padding: 0 5px;
+}

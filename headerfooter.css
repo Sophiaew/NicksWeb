@@ -61,3 +61,7 @@ p {
 #opening h3 {
   color: black;
 }
+
+.openingp {
+  font-weight: normal;
+}
