@@ -35,6 +35,7 @@ h4 {
 table {
   width: 100%;
   font-family: "Goudy Bookletter 1911", serif;
+  padding-bottom: 25vh;
 }
 thead {
   font-weight: bold;
