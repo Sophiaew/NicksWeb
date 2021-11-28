@@ -19,15 +19,15 @@ footer {
   margin-bottom: 10%;
 }
 .raceimage {
-  background-image: url(placeholder.jpg);
+  background-image: url(images/placeholder.jpg);
 }
 
 .subclassesimage {
-  background-image: url(placeholder.jpg);
+  background-image: url(images/placeholder.jpg);
 }
 
 .backgroundsimage {
-  background-image: url(placeholder.jpg);
+  background-image: url(images/placeholder.jpg);
 }
 
 #secondpart a {

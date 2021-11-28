@@ -9,7 +9,7 @@ main {
 }
 
 body {
-  background-image: url(background2.png);
+  background-image: url(images/background2.png);
   background-repeat: no-repeat;
   background-color: black;
   background-size: cover;
@@ -41,4 +41,6 @@ thead {
 }
 td {
   padding: 0 5px;
+  margin: 0 auto;
+  text-align: center;
 }

@@ -3,7 +3,7 @@
   font-family: "Courgette", cursive;
 }
 header {
-  background-image: url(My\ Post.png);
+  background-image: url(images/post.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 10%;
@@ -35,15 +35,15 @@ li {
   margin-bottom: 10%;
 }
 .raceimage {
-  background-image: url(Paper3.png);
+  background-image: url(images/Paper3.png);
 }
 
 .subclassesimage {
-  background-image: url(Paper2.png);
+  background-image: url(images/Paper2.png);
 }
 
 .backgroundsimage {
-  background-image: url(Paper4.png);
+  background-image: url(images/Paper4.png);
 }
 #secondpart h2 {
   text-align: center;

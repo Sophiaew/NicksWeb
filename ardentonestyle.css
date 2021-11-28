@@ -5,7 +5,7 @@
   font-family: "Goudy Bookletter 1911", serif;
 }
 header {
-  background-image: url(My\ Post.png);
+  background-image: url(images/Mypost.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 10%;
@@ -46,7 +46,7 @@ main {
 }
 
 body {
-  background-image: url(background2.png);
+  background-image: url(images/background2.png);
   background-repeat: no-repeat;
   background-color: black;
   background-size: cover;
